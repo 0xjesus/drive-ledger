@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229147458065",
+    "project_id": "drive-ledger",
+    "storage_bucket": "drive-ledger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229147458065:android:ff9a921f588496acf40fb0",
+        "android_client_info": {
+          "package_name": "com.example.drive_ledger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1kmOHvxwrB7X_kykOHgZONbRgRtHFzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
