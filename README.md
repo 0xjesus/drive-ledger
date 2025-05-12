@@ -1,6 +1,6 @@
 # Drive-Ledger: Car Data Marketplace on Solana
 
-[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-demo-link)
+[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.veed.io/view/9c5cb723-0683-4d26-befe-98ba118c822e?panel=share)
 
 ## What We Built
 
