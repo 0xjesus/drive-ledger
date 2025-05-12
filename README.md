@@ -102,5 +102,3 @@ Our token-based incentive system rewards quality data:
 
 
 ---
-
-*Built for DeCharge & Para at Breakout Hackathon utilizing DeCharge's synthetic OBD-II dataset and Para's authentication SDK*
