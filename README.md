@@ -95,9 +95,11 @@ Our token-based incentive system rewards quality data:
 
 ## Screenshots
 
-![Simulation Screen](https://via.placeholder.com/250x500?text=Simulation)
-![Marketplace](https://via.placeholder.com/250x500?text=Marketplace)
-![Wallet Integration](https://via.placeholder.com/250x500?text=Wallet)
+![Dashboard](https://ag1labs.nyc3.cdn.digitaloceanspaces.com/photo_2025-05-12_13-02-30.jpg)
+![Simulation Screen](https://ag1labs.nyc3.cdn.digitaloceanspaces.com/photo_2025-05-12_13-02-31.jpg)
+![Marketplace](https://ag1labs.nyc3.cdn.digitaloceanspaces.com/photo_2025-05-12_13-02-29.jpg)
+![Wallet Integration](https://ag1labs.nyc3.cdn.digitaloceanspaces.com/photo_2025-05-12_13-02-27.jpg)
+
 
 ---
 
